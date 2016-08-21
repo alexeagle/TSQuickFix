@@ -1,4 +1,6 @@
 interface Foo {}
 
-class  Bar extends Foo {
+class  Bar implements Foo {
+  public x: number
+
 }
