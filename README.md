@@ -45,8 +45,11 @@ We wrote a tool to automatically correct all the code with wrong style.
 
 Before fixes were part of TSLint, the VSCode team put up a [contrib rule set](https://github.com/Microsoft/tslint-microsoft-contrib) which has quick fixes wired to a [TSLint VSCode extension](https://marketplace.visualstudio.com/items?itemName=eg2.tslint). Using the `.vscode/settings.json` in this repo, 
 I can fire up VSCode and see a lightbulb next to a style issue:
+
 ![lightbulb](lightbulb.png)
+
 and clicking that gives you the chance to apply the fix:
+
 ![suggestion](suggestion.png)
 
 I look forward to getting the new fixes in TSLint hooked up to VSCode and other editors!
