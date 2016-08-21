@@ -1,0 +1,17 @@
+{
+  "name": "try_ts_quickfix",
+  "version": "1.0.0",
+  "description": "play with https://github.com/Microsoft/TypeScript/pull/9304",
+  "main": "harness.js",
+  "dependencies": {
+    "diff": "^2.2.3",
+    "tslint": "^3.13.0",
+    "typescript": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Eagle <alexeagle@google.com> (https://angularjs.org/)",
+  "license": "Apache-2.0"
+}

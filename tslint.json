@@ -1,0 +1,16 @@
+{
+    "rules": {
+    "interface-name": false,
+    "max-line-length": [true, 140],
+    "semicolon": true,
+    "one-line": [true,
+      "check-catch",
+      "check-whitespace"],
+      "quotemark": [true, "double"],
+    "member-ordering": [true,
+      "public-before-private",
+      "static-before-instance",
+      "variables-before-functions"
+    ]
+  }
+}

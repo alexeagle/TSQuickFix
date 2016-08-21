@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "outDir": "built",
+        "noImplicitAny": false,
+        "sourceMap": false
+    },
+    "files": [
+        "harness.ts"
+    ]
+}
